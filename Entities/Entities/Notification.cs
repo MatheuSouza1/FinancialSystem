@@ -25,7 +25,7 @@ namespace Entities.Entities
 
         public bool ValidateStringProp(string value, string propName)
         {
-            if (string.IsNullOrWhiteSpace(value) || string.IsNullOrWhiteSpace(propName){
+            if (string.IsNullOrWhiteSpace(value) || string.IsNullOrWhiteSpace(propName)){
                 Notifications.Add(new Notification
                 {
                     Message = "Campo Obrigatório",

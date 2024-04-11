@@ -1,0 +1,95 @@
+[33mcommit a46f71d588de4799a8f73b31bfbe6d003c277ba7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Thu Apr 11 20:13:42 2024 -0300
+
+    Instalado pacote ef.design
+
+[33mcommit 173f54e39349ce5b0799ac83498c295ee40b439c[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Thu Apr 11 19:15:56 2024 -0300
+
+    Métodos GenericRepository implementados
+
+[33mcommit de95fed858ea2dca92f5f7a1765d2b068920e5b9[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Thu Apr 11 18:20:34 2024 -0300
+
+    Criado Interface de repositorio genérico e o repositorio genérico
+
+[33mcommit 11f33d9d54eb698d83271863505f151b9e3f0098[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 20:02:56 2024 -0300
+
+    Instalado pacote Identity.Ui
+
+[33mcommit b07eb635ade88935a3361671378f0dae9a77bce5[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 19:56:10 2024 -0300
+
+    ContextBase configurado na classe program_Intalado SqlServer na Api
+
+[33mcommit 044793c5a386bfbbfc1ac70b7b56456e313c4e52[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 19:34:27 2024 -0300
+
+    ContextBase criada_Identity instalado na infra
+
+[33mcommit 312d91696d03ca82125774ddb0998c42beaffbb2[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 19:04:35 2024 -0300
+
+    Criado EExpenditureType e impotado na Expenditure
+
+[33mcommit 73ac5f960ba123450583783d9698164bb3037915[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 18:46:14 2024 -0300
+
+    Criado ApplicationUser_Instalado Identity no Entities
+
+[33mcommit 8bf8bc09646b9138eb9a3424570fabfed3a6a6b1[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 18:29:05 2024 -0300
+
+    Criada classe Expenditure
+
+[33mcommit ecf6c0b23dca612bae78ad2d8bec4bc52f57fc8f[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 18:09:28 2024 -0300
+
+    Criado a classe Category
+
+[33mcommit 9260d3292acb6487ee1857705223e0749b1d6d15[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 17:55:50 2024 -0300
+
+    Criada classe FinancialSystem
+
+[33mcommit 08cd8c8c0053d0538e6653cd763aac7a35c613b8[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 17:44:20 2024 -0300
+
+    Criado classe FinancialSystem
+
+[33mcommit 91700f9a0268be45e616906f8449944773698df3[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 17:34:54 2024 -0300
+
+    Criada a classe base
+
+[33mcommit 9946b2eec925123e5a2d46bab8b1ecbe8222b6bc[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Fri Apr 5 17:33:09 2024 -0300
+
+    Criada a classe Notifications
+
+[33mcommit 2384df4a22ce1cdff88dd9a1f9532d2b0a0cd36a[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Thu Apr 4 18:46:44 2024 -0300
+
+    Deletado api de exemplo
+
+[33mcommit c0ae6f8822d49f69573e26bcf6b39a20662b3895[m
+Author: Matheus <rdesouzamatheus@gmail.com>
+Date:   Thu Apr 4 18:45:36 2024 -0300
+
+    Criado projeto e estrutura de pastas
