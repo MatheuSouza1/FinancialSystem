@@ -15,3 +15,5 @@ C:\Users\rdeso\OneDrive\Documentos\Cshrp\Projetos\SistemaFinanceiro\FinancialSys
 C:\Users\rdeso\OneDrive\Documentos\Cshrp\Projetos\SistemaFinanceiro\FinancialSystem\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
 C:\Users\rdeso\OneDrive\Documentos\Cshrp\Projetos\SistemaFinanceiro\FinancialSystem\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
 C:\Users\rdeso\OneDrive\Documentos\Cshrp\Projetos\SistemaFinanceiro\FinancialSystem\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+C:\Users\rdeso\OneDrive\Documentos\Cshrp\Projetos\SistemaFinanceiro\FinancialSystem\Infraestructure\bin\Debug\net8.0\Infraestructure.runtimeconfig.json
+C:\Users\rdeso\OneDrive\Documentos\Cshrp\Projetos\SistemaFinanceiro\FinancialSystem\Infraestructure\obj\Debug\net8.0\Infraestructure.genruntimeconfig.cache
